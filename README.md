@@ -31,4 +31,4 @@ Creating CSS style libraries for individuals,Easy to use.
 
 ## 关于我们
 
-作者：RyanHo97
+作者：RyanHo97、gaoboxin
