@@ -1,0 +1,48 @@
+/*! Cosmos v0.0.1.test | MIT License | github.com/RyanHo97/cosmos */
+
+/* Cosmos Base */
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cosmos-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cosmos-container-w1000{
+  width: 1000px;
+}
+
+.cosmos-center{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}

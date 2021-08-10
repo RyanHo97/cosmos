@@ -36,3 +36,25 @@ a {
   margin-right: auto;
   margin-left: auto;
 }
+
+.cosmos-container-w1000{
+  width: 1000px;
+}
+
+.cosmos-center{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cosmos-header{
+
+}
+
+.cosmos-content{
+
+}
+
+.cosmos-footer{
+
+}
