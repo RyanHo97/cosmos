@@ -1,8 +1,8 @@
+<img src="https://github.com/RyanHo97/cosmos/blob/main/docs/images/cosmos.jpg">
+
 # cosmos.css手册
 
 **cosmos**（宇宙）  
-
-<img src="https://github.com/RyanHo97/cosmos/blob/main/docs/images/cosmos.jpg">
 
 ## 项目介绍
 
