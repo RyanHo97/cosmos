@@ -27,3 +27,8 @@ h6 {
   margin: 0;
   padding: 0;
 }
+
+.cosmos-container {
+  margin-right: auto;
+  margin-left: auto;
+}
