@@ -1,4 +1,4 @@
-<img src="https://github.com/RyanHo97/cosmos/blob/main/docs/images/cosmos.jpg">
+<img src="https://github.com/RyanHo97/cosmos/blob/main/docs/images/cosmos_logo.jpg">
 
 # cosmos.css手册
 
