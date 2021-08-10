@@ -28,6 +28,10 @@ h6 {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 .cosmos-container {
   margin-right: auto;
   margin-left: auto;
