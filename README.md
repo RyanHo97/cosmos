@@ -18,3 +18,17 @@ Creating CSS style libraries for individuals,Easy to use.
 - 纯CSS轻量化
 - 支持响应式的web界面
 - 具备主流浏览器兼容性
+
+## 使用方式
+
+简单导入即可使用：
+
+```html
+<link rel="stylesheet" href="./static/cosmos.css">
+```
+
+如需生产环境版本，请等待后续的更新。
+
+## 关于我们
+
+作者：RyanHo97
