@@ -32,6 +32,11 @@ a {
   text-decoration: none;
 }
 
+ul,
+li {
+  list-style: none;
+}
+
 .cosmos-container {
   margin-right: auto;
   margin-left: auto;
@@ -45,4 +50,25 @@ a {
   display: block;
   margin-right: auto;
   margin-left: auto;
+}
+
+.cosmos-tcenter{
+  text-align: center;
+}
+
+.cosmos-header{
+  background-color: rgb(56, 14, 124);
+  color: #f8f8f5;
+  min-height: 60px;
+}
+
+.cosmos-content{
+  padding: 20px auto;
+  background-color: #f8f8f5;
+  min-height: 300px;
+}
+
+.cosmos-footer{
+  margin: 20px auto 0 auto;
+  min-height: 60px;
 }
