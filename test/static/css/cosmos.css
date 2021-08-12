@@ -82,3 +82,65 @@ h6 {
   margin: 20px auto 0 auto;
   min-height: 60px;
 }
+
+/* Cosmos Grid */
+
+.cosmos-1{
+  float: left;
+  width: 8.333333%;
+}
+
+.cosmos-2{
+  float: left;
+  width: 16.666667%;
+}
+
+.cosmos-3{
+  float: left;
+  width: 25%;
+}
+
+.cosmos-4{
+  float: left;
+  width: 33.333333%;
+}
+
+.cosmos-5{
+  float: left;
+  width: 41.666667%;
+}
+
+.cosmos-6{
+  float: left;
+  width: 50%;
+}
+
+.cosmos-7{
+  float: left;
+  width: 58.333333%;
+}
+
+.cosmos-8{
+  float: left;
+  width: 66.666667%;
+}
+
+.cosmos-9{
+  float: left;
+  width: 75%;
+}
+
+.cosmos-10{
+  float: left;
+  width: 83.333333%;
+}
+
+.cosmos-11{
+  float: left;
+  width: 91.666667%;
+}
+
+.cosmos-12{
+  float: left;
+  width: 100%;
+}
