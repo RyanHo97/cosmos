@@ -82,3 +82,53 @@ h6 {
   margin: 20px auto 0 auto;
   min-height: 60px;
 }
+
+/* Cosmos Grid */
+
+.cosmos-1{
+  width: 8.333333%;
+}
+
+.cosmos-2{
+  width: 16.666667%;
+}
+
+.cosmos-3{
+  width: 25%;
+}
+
+.cosmos-4{
+  width: 33.333333%;
+}
+
+.cosmos-5{
+  width: 41.666667%;
+}
+
+.cosmos-6{
+  width: 50%;
+}
+
+.cosmos-7{
+  width: 58.333333%;
+}
+
+.cosmos-8{
+  width: 66.666667%;
+}
+
+.cosmos-9{
+  width: 75%;
+}
+
+.cosmos-10{
+  width: 83.333333%;
+}
+
+.cosmos-11{
+  width: 91.666667%;
+}
+
+.cosmos-12{
+  width: 100%;
+}
