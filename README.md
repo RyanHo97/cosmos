@@ -31,4 +31,5 @@ Creating CSS style libraries for individuals,Easy to use.
 
 ## 关于我们
 
+[the MIT license](https://github.com/RyanHo97/cosmos/blob/main/LICENSE).
 作者：RyanHo97、gaoboxin
